@@ -1,21 +1,6 @@
-[![arXiv](https://img.shields.io/badge/arXiv-SpaTracker-red)](https://arxiv.org/abs/2403.18913)
 
 
 # SpatialTracker: Tracking Any 2D Pixels in 3D Space
-
-![](assets/dance-twirl.gif)
-
-> [**SpatialTracker: Tracking Any 2D Pixels in 3D Space**](https://henry123-boy.github.io/SpaTracker/),  
-> Yuxi Xiao\*, Qianqian Wang\*, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou,  
-> CVPR 2024, Highlight
-> *Paper at [arxiv](https://arxiv.org/abs/2404.04319)*  
-
-
-## News and ToDo
-- [ ] Release SpatialTracker-v2 (coming).
-- [x] Release SpatialTracker inference code and checkpoints.
-- [x] `05.04.2024`: SpatialTracker is selected as Highlight Paper!
-- [x] `26.02.2024`: SpatialTracker is accepted at CVPR 2024!
 
 ## Requirements 
 
